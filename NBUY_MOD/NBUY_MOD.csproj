@@ -110,8 +110,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\Bootstrap\css\" />
-    <Folder Include="Content\Bootstrap\js\" />
+    <Folder Include="Content\lib\Bootstrap\css\" />
+    <Folder Include="Content\lib\Bootstrap\js\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
